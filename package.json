@@ -1,0 +1,22 @@
+{
+  "name": "Practice_Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^8.0.5",
+    "bootstrap": "^4.3.1",
+    "chalk": "^2.4.2",
+    "cli": "^1.0.1",
+    "live-server": "^1.2.1",
+    "nodemon": "^1.18.11",
+    "webpack": "^4.30.0"
+  }
+}
